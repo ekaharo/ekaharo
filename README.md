@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ekaharo
-- 👀 I’m interested in data science and API development using Python frameworks
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on machine learning tasks
+- 👀 I’m a data science & API developer using Python & SQL
+- 💞️ I'm a CEO & Founder of a Credit Fintech
 - 📫 How to reach me ekaharo@yahoo.com
 
 <!---
