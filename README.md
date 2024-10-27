@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ekaharo
-- 👀 I’m a data science & API developer using Python & SQL
+- 👀 data science, data engineering, machine learning, API development, novice in generative AI ..that's me
+- 🇰🇪 
 - 💞️ I'm a CEO & Founder of a Credit Fintech
 - 📫 How to reach me ekaharo@yahoo.com
 
