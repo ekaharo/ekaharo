@@ -2,7 +2,7 @@
 - 👀 Startups, Fintech, Technology Leadership
 - Others: Proficient in data science, data engineering, machine learning, API development, novice in generative AI
 - 💞️ CEO & Founder of a Credit Fintech
-- Our Credit Scoring Algorithms have scored over 12M+ Unique Kenyan Customer 😎😎
+- Our Credit Scoring Algorithms have scored over 12.3M+ Unique Customers 😎😎 ...
 - That's not just a number that ability to unlock credit to 12M+ Micro Businesses and households
 - 📫 edward@ksmart.tech
 - "It's your reaction to adversity, not adversity itself that determines how your life's story will develop." — Dieter F. Uchtdorf
